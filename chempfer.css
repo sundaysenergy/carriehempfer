@@ -1,0 +1,12 @@
+body {background-color:#ffffff; padding: 30px}
+
+td{font-family:verdana, helvetica;color:#808284;font-size: 12px; line-height: 14px; text-decoration: none; }
+h1{font-family:verdana, helvetica;color:#808284;font-size:12px; text-decoration: none; line-height: 14px}
+em{font-family:verdana, helvetica;color:#808284;font-size: 12px; line-height: 14px; text-decoration: none; }
+b{font-family:verdana, helvetica;color:#c6d92e;font-size: 12px; line-height: 14px; text-decoration: none; }
+
+
+a:link {color:#808284;font-family: verdana, helvetica;text-decoration:none;font-size:12 px}
+a:visited {color:#808284;font-family: verdana, helvetica;text-decoration:none;font-size:12 px}
+a:hover {color:#808284;font-family:verdana, helvetica;text-decoration:underline;font-size:12 px}
+a:active {color:#808284;font-family:verdana, helvetica;text-decoration:underline;font-size:12 px}
